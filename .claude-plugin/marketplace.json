@@ -1,0 +1,8 @@
+{
+  "name": "marketplace-brackal",
+  "owner": { "name": "Aleksej Brack" },
+  "description": "Eigene Claude-Code-Skills von Aleksej Brack, nach Zweck in Plugins gegliedert.",
+  "plugins": [
+    { "name": "git", "source": "./plugins/git", "description": "Commit-Nachrichten nach Conventional Commits." }
+  ]
+}
