@@ -1,0 +1,6 @@
+{
+  "name": "git",
+  "version": "00.01.00",
+  "description": "Commit-Nachrichten nach Conventional Commits.",
+  "author": { "name": "Aleksej Brack" }
+}
